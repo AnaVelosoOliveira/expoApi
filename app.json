@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "expoApi",
-    "slug": "expoApi",
+    "name": "TabsExpoTest",
+    "slug": "TabsExpoTest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "expoapi",
+    "scheme": "tabsexpotest",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
